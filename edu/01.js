@@ -59,7 +59,7 @@ console.log(globalConst);
 if(true) {
   var blockVar = 'blockVar';
   let blockLet = 'blockLet';
-  const blockConst = 'blockConst';
+  const blockConst = "blockConst";
 }
 
 console.log(blockVar); // 함수 레벨 스코프
