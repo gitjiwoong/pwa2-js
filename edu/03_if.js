@@ -33,14 +33,6 @@ if (answer_question1 === 2 && answer_question2 === 5) {
   console.log('0점입니다');
 }
 
-//switch문
-switch(food) {
-  case '돈까스':
-    foodKinds = '경양식'
-    break
-    case '김치찌개':
-      default:
-}
 
 let food = '초밥'
 if (food='돈까스'){
